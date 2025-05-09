@@ -1,4 +1,7 @@
-![alt tag](https://login.zatca.gov.sa/com.sap.portal.resourcerepository/repo/zatca/img/ZATCA-logo.png)
+<p align="center">
+  <img src="https://login.zatca.gov.sa/com.sap.portal.resourcerepository/repo/zatca/img/ZATCA-logo.png" alt="ZATCA Logo">
+</p>
+
 
 # Fatoora Zatca
 
