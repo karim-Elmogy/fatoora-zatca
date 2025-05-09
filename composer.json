@@ -16,12 +16,5 @@
     "require": {
         "phpseclib/phpseclib": "^3.0",
         "simplesoftwareio/simple-qrcode": "^4.2"
-    },
-    "extra": {
-        "laravel": {
-            "providers": [
-                "elmogy\\fatoora-zatca\\FatooraZatcaServiceProvider"
-            ]
-        }
     }
 }
